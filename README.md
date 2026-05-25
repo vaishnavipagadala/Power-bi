@@ -2,7 +2,6 @@
 
 A dynamic and interactive Power BI dashboard designed to analyze business sales performance, shipment trends, product insights, and profit analysis. This dashboard helps users monitor KPIs, compare yearly performance, and identify top-performing products and salespersons.
 
----
 
 # Short Description / Purpose
 
@@ -22,7 +21,7 @@ This project is useful for:
 - Beginners learning Power BI
 - Portfolio & Resume Projects
 
----
+
 
 # Tech Stack
 
@@ -33,7 +32,6 @@ The dashboard was built using the following tools and technologies:
 - 🧠 DAX (Data Analysis Expressions) – Used for calculated columns, KPIs, and measures.
 - 🔗 Data Modeling – Relationships between sales, products, shipments, and geography tables.
 
----
 
 # Data Source
 
@@ -48,8 +46,6 @@ The dataset used in this project contains business sales information including:
 
 The data was used for learning and dashboard practice purposes.
 
----
-
 # Features / Highlights
 - Interactive sales and profit analysis dashboard
 - Year-over-Year (CY vs PY) sales comparison
@@ -62,7 +58,7 @@ The data was used for learning and dashboard practice purposes.
 - Dynamic filters for better data exploration
 
 
----
+
 
 #  Business Impact & Insights
 
@@ -81,18 +77,18 @@ Understand which countries contribute the most revenue.
 -Shipment Optimization
 Track shipment distribution and logistics patterns.
 
----
+
 
 # Screenshots/Demos
 Show what the dashboard looks like. Example:
 ![Dashboard Preview](https://github.com/vaishnavipagadala/Power-bi/blob/main/Business%20Sales%20Dashbooard.png)
 
----
+
 
 # Created By
 
 Vaishnavi Pagadala
 
----
+
 
 
