@@ -66,32 +66,32 @@ The data was used for learning and dashboard practice purposes.
 
 #  Business Impact & Insights
 
-## Sales Monitoring
+-Sales Monitoring
 Management can quickly monitor overall business growth and profitability.
 
-## Product Analysis
+-Product Analysis
 Identify best-selling and high-profit products.
 
-## Employee Performance Tracking
+-Employee Performance Tracking
 Analyze top-performing salespersons and sales contribution.
 
-## Geographic Insights
+-Geographic Insights
 Understand which countries contribute the most revenue.
 
-## Shipment Optimization
+-Shipment Optimization
 Track shipment distribution and logistics patterns.
 
 ---
 
 # Screenshots/Demos
 Show what the dashboard looks like. Example:
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/vaishnavipagadala/Power-bi/blob/main/Business%20Sales%20Dashbooard.png)
 
 ---
 
-# 👩‍💻 Created By
+# Created By
 
-**Vaishnavi Pagadala**
+Vaishnavi Pagadala
 
 ---
 
